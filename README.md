@@ -1,6 +1,6 @@
 # Shopify to Magento Migration Service
 
-Avail Meetanshi’s  ***[Shopify to Magento Migration Service](https://meetanshi.com/shopify-to-magento-migration-service.html)***if you are willing to migrate your current store to the latest Magento 2 version.
+Avail Meetanshi’s  ***[Shopify to Magento Migration Service](https://meetanshi.com/shopify-to-magento-migration-service.html)*** if you are willing to migrate your current store to the latest Magento 2 version.
 
 
 Running an eCommerce store is a complicated as well as challenging task. One needs to select an eCommerce platform wisely that satisfies your business requirements. The process of migration is complex and requires expert’s attention as to not risk the store’s crucial data and security of customers’ sensitive information.
